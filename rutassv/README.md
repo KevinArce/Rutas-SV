@@ -1,6 +1,7 @@
-# rutassv
+# Rutas SV
 
-A new Flutter project.
+Aplicacion multiplataforma para obtener la informacion de los autobuses y sus respectivas rutas en El Salvador
+
 
 ## Getting Started
 
